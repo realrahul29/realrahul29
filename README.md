@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💻 Programming Student | C | Java | Python  
+🎯 Interested in low-level programming & graphics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realrahul29&label=Profile%20views&color=0e75b6&style=flat" alt="realrahul29" /> </p>
 
